@@ -1,0 +1,21 @@
+.bg-color{
+    background-color: #e9c7ad;
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 700px;
+}
+
+.img-width{
+    width: 600px;
+}
+
+.textColor-title{
+    color: #e9c7ad;
+}
+
+.textColor-subtitle{
+    color: #b04b2d;
+}
